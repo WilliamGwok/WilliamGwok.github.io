@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Junwei GAO"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Undergraduate @SZU"
+  bio              : "Senior Undergraduate @SZU, interested in Robotics"
   location         : "Shenzhen"
   # employer         : "Red Brick University"
   uri              : #"url"
@@ -35,6 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
+  github           : "https://github.com/WilliamGwok"
   orcid            : "https://orcid.org/0009-0002-7155-8282"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -45,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/WilliamGwok"
+  
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
