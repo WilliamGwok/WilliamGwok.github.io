@@ -59,36 +59,22 @@ margin-left: 0px;
 <div class="bdcard">
 <img src="../assets/images/anymate.gif" alt="anymate" />
 </div>
-<div class="bdtext">
+<div class="bdtext">[Uploading Combined_Version__227_ (3).pdf…]()
+
 <h3>Autonomous Gesture-Steered Mine Rescue: A Dynamically Balanced
 Two-Wheeled Robot</h3>
 <font size="3" >
 <b><i>Junwei Gao</i></b>*, 
-<i>Jiahui Zhou</i></a>*, 
-<i>Zhen Zheng</i></a>, 
-<i>Yue Ma</i></a>, 
+<i>Jiahui Zhou</i>*, 
+<i>Zhen Zheng</i>, 
+<i>Yue Ma</i>, 
 Under Review <br>
-<a href="https://drive.google.com/file/d/1Vn8dnKP51RmG9-PwDOdU6ZAlWR33gD0Y/view?usp=sharing">[Paper]</a>
+<a href="https://drive.google.com/file/d/1Qhy1Ws_MDG82HGcPjl4xej8osucuI6CA/view?usp=drive_link">[Paper]</a>
 </font>
 </div>
 </div>
 </body>
 
-
-* July 2024 ~ Ongoing: Research Internship
-  * Supervised under Professor Wei Hu @ Michigan
-  * Working on understanding in-context learning mechanism using clean and controlled setting
-
-* July 2023 ~ Ongoing: Remote Collaboration
-  * Supervised under Professor Yiping Lu @ Northwestern
-  * Worked on benign overfitting for PINN, and had a first-authored paper under review
-  * Organized the Deep Learning Theory Reading Group inside the research group
-
-* Oct 2022 ~ Nov 2023: Undergraduate Research Opportunities Program (UROP) @ HKUST
-  * Supervised under Professor Tong Zhang @ HKUST
-  * [Paper accepted to ICLR2024](https://arxiv.org/abs/2309.17230) as coauthor
-  * This work has an interesting finding that ensemble of models with spurious features can improve its performance, which is contrary to common belief on OOD that models should maintain invariant features and disgard spurious features like IRM. 
-  * (Here begins my research journey! Very thankful to Yong Lin, Yifan Hao and Lu Tan for guiding me)
 
 
 
