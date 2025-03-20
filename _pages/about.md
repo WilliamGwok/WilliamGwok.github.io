@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate student majoring in Computer Science & Mathematics in The Hong Kong University of Science and Technology (HKUST). 
+Hi! I am a senior undergraduate student majoring in Automation in The Shenzhen University(SZU). 
 My research mainly focuses on understanding [the modern paradigms in generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization), using both theoretical and interpretability approaches.
-I am applying for MS / PhD Positions in Computer Science and Statistics, feel free to reach out if you share the same interests. 
+I am going to pursue my MSc degree in Electrical Engineering. Feel free to reach out if you share the same interests.
 
 
 
@@ -18,8 +18,7 @@ I am applying for MS / PhD Positions in Computer Science and Statistics, feel fr
 
 
 ## Education
-* BSc in Computer Science & Mathematics, Hong Kong University of Science and Technology, 2025
-* Exchange (Computer Science), École Polytechnique Fédérale de Lausanne, 2024 Spring 
+* BSc in Automation, Shenzhen University, 2025
 
 ## Research experience
 * July 2024 ~ Ongoing: Research Internship
@@ -38,9 +37,8 @@ I am applying for MS / PhD Positions in Computer Science and Statistics, feel fr
   * (Here begins my research journey! Very thankful to Yong Lin, Yifan Hao and Lu Tan for guiding me)
 
 ## Academics
-* Cumulative GPA: 4.099/4.3, **Rank: 1**
-* Graduate-level courses: COMP5212 Machine Learning (A), MATH5411 Advanced Probability Theory (A), CS439 Optimization in Machine Learning (6/6, at EPFL), CS552 Modern NLP (5.5/6, at EPFL)
-* Selected Undergraduate courses: COMP3711 Design and Analysis of Algorithms (A+), MATH4335 Optimization (A), MATH4063 Functional Analysis (A), MATH3312 Numerical Analysis (A+), COMP2012H Honors OOP and Data Structure (A+), MATH3043 Honors Real Analysis (A+), MATH2431 Honors Probability (A+), CS251 Theory of Computation (5.5/6, at EPFL)
+* Electrical courses: [1101980047] Applied Electronics (A+), [1101980024] Microcontroller Principles and Interface Technology (A), [1101980030] Sensor and Detection Technology (A), [1102150001] Signal and System (A), [1101980033] Pattern Recognition (A)
+* Robotics and Control courses: [1101980020] Robotics and Control (A+), [1101610001] Control System Simulation (A+), [1101980036] Automatic Control Theory (A), [1101980039] Computer Control Technology (A), [1101980022] Robot Operation system (A)
 
 ## Review experience
 * Conference / Journal: L4DC 2025, ICML 2025, NeurIPS 2024, TMLR
