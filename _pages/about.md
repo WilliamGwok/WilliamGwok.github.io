@@ -59,8 +59,7 @@ margin-left: 0px;
 <div class="bdcard">
 <img src="../assets/images/anymate.gif" alt="anymate" />
 </div>
-<div class="bdtext">[Uploading Combined_Version__227_ (3).pdf…]()
-
+<div class="bdtext">
 <h3>Autonomous Gesture-Steered Mine Rescue: A Dynamically Balanced
 Two-Wheeled Robot</h3>
 <font size="3" >
